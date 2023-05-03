@@ -30,7 +30,7 @@ const Rodape = () => {
             Desenvolvido por Matheus Carvalho.
         </p>
         <p>
-            <br/>Contato: matheuscncontato@hotmail.com
+            Contato: matheuscncontato@hotmail.com
         </p>
        </section>
     </footer>)

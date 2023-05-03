@@ -1,5 +1,4 @@
 .colaborador {
-    position: relative;
     width: 280px;
 }
 
@@ -35,8 +34,4 @@
     line-height: 22px;
     color: #212121;
     padding: 0 16px;
-}
-
-.favoritar {
-    margin-top: 20px;
 }
